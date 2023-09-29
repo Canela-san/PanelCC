@@ -1,0 +1,8 @@
+continuar utilizando os mesmo componentes
+Atualizar:
+	Stack femea
+		-Novas dimenções(mm): 235i + 121j + 136k
+		-codigo: N4506 [IP67 63A-6h 3P+1T 155775 NEWKON]
+	Tamanho da estrutura
+		-Chapas
+		-Espaçamento entre componentes

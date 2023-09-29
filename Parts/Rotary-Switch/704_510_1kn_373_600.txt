@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"30-25112015-097377";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartTitle";"704.510.1KN Selector rotary switch actuator, short lever";"";
+"TraceParts.InstanceId";"30-25112015-0973775CL2R4I8R79MPM4B7YBNVVH0K";"";
+"SUPPLIER";"eao";"";
+"DESIGN";"30x30 Screw Rotary selector switch short lever stages 2";"";
+"Bestellnummer";"704.510.1KN";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.8";"";

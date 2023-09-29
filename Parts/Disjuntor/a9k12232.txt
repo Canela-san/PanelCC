@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-15072020-120198";"";
+"REFERENCE";"A9K12232";"";
+"TraceParts.PartTitle";"Acti 9 K60H 2P 32A C curve 10000 A";"";
+"TraceParts.InstanceId";"10-15072020-1201984UF45636DXJK5DQKRLFIB3ZC";"";
+"DESIGN";"Acti 9 K60H 2P 32A C curve 10000 A";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Schneider Electric";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"SCHNEIDER_ELECTRIC_DISTRI:10-15072020-120198";"";
