@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-05032024-074766";"";
+"REFERENCE";"TIB 120-112";"";
+"rs_stock_number";"1848535";"";
+"TraceParts.PartTitle";"DIN Rail Power Supply 12V 120W";"";
+"url";"https://uk.rs-online.com/web/p/din-rail-power-supplies/1848535//?cm_mmc=aff-_-uk-_-traceparts-_-1848535";"";
+"SUPPLIER_NAME";"RS Components";"";
+"SUPPLIER";"TRACOPOWER";"";
+"DESIGN";"DIN Rail Power Supply 12V 120W";"";
+"TraceParts.InstanceId";"90-05032024-0747662N3XX9WWY2MK673V115V3T3RA";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";
